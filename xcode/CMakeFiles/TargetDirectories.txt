@@ -1,0 +1,17 @@
+/Users/mylinhvu/Desktop/cs184/hw0-intro/xcode/CMakeFiles/quad_test.dir
+/Users/mylinhvu/Desktop/cs184/hw0-intro/xcode/CMakeFiles/install.dir
+/Users/mylinhvu/Desktop/cs184/hw0-intro/xcode/CMakeFiles/ALL_BUILD.dir
+/Users/mylinhvu/Desktop/cs184/hw0-intro/xcode/CMakeFiles/ZERO_CHECK.dir
+/Users/mylinhvu/Desktop/cs184/hw0-intro/xcode/CGL/CMakeFiles/install.dir
+/Users/mylinhvu/Desktop/cs184/hw0-intro/xcode/CGL/CMakeFiles/ALL_BUILD.dir
+/Users/mylinhvu/Desktop/cs184/hw0-intro/xcode/CGL/CMakeFiles/ZERO_CHECK.dir
+/Users/mylinhvu/Desktop/cs184/hw0-intro/xcode/CGL/deps/glew/CMakeFiles/glew.dir
+/Users/mylinhvu/Desktop/cs184/hw0-intro/xcode/CGL/deps/glew/CMakeFiles/install.dir
+/Users/mylinhvu/Desktop/cs184/hw0-intro/xcode/CGL/deps/glfw/CMakeFiles/uninstall.dir
+/Users/mylinhvu/Desktop/cs184/hw0-intro/xcode/CGL/deps/glfw/CMakeFiles/install.dir
+/Users/mylinhvu/Desktop/cs184/hw0-intro/xcode/CGL/deps/glfw/CMakeFiles/ALL_BUILD.dir
+/Users/mylinhvu/Desktop/cs184/hw0-intro/xcode/CGL/deps/glfw/CMakeFiles/ZERO_CHECK.dir
+/Users/mylinhvu/Desktop/cs184/hw0-intro/xcode/CGL/deps/glfw/src/CMakeFiles/glfw.dir
+/Users/mylinhvu/Desktop/cs184/hw0-intro/xcode/CGL/deps/glfw/src/CMakeFiles/install.dir
+/Users/mylinhvu/Desktop/cs184/hw0-intro/xcode/CGL/src/CMakeFiles/CGL.dir
+/Users/mylinhvu/Desktop/cs184/hw0-intro/xcode/CGL/src/CMakeFiles/install.dir
